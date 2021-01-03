@@ -2,11 +2,11 @@
 
 - - -
 
-I generated a report that breaks down the game's purchasing data into meaningful insights.
+I generated a report that breaks down the game's, Heroes of Pymoli, purchasing data into meaningful insights.
 
 - - -
 
-# Analysis on the Heroes of Pymoli
+# Analysis on Heroes of Pymoli
 
 1. There was a total of 780 purchases and there are 179 unique items which means that most of the items were bought more than once
 2. There is a substancial gender difference of players, males dominating at 84% 
@@ -16,7 +16,7 @@ I generated a report that breaks down the game's purchasing data into meaningful
 
 - - -
 
-### What I did:
+## What I did:
 
 ### Player Count
 
