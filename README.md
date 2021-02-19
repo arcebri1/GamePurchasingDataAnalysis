@@ -21,6 +21,7 @@ I generated a report that breaks down the game's, Heroes of Pymoli, purchasing d
 ### Player Count
 
 * Total Number of Players
+![](Images/playercount.png)
 
 ### Purchasing Analysis (Total)
 
