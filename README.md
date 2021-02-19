@@ -30,7 +30,6 @@ I generated a report that breaks down the game's, Heroes of Pymoli, purchasing d
 * Total Number of Purchases
 * Total Revenue
 
-![](Images/totalpurchasinganalysis.png)
 ![](Images/totalpurchaseanalysis2.png)
 
 ### Gender Demographics
@@ -49,7 +48,7 @@ I generated a report that breaks down the game's, Heroes of Pymoli, purchasing d
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
-  ![](Images\genderpurchasinganalysis.png)
+  ![](Images/genderpurchasinganalysis.png)
 
 ### Age Demographics
 
@@ -59,7 +58,6 @@ I generated a report that breaks down the game's, Heroes of Pymoli, purchasing d
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
-  ![](Images/agedemo.png)
   ![](Images/agedemo2.png)
 
 ### Top Spenders
