@@ -30,6 +30,9 @@ I generated a report that breaks down the game's, Heroes of Pymoli, purchasing d
 * Total Number of Purchases
 * Total Revenue
 
+![](Images/totalpurchasinganalysis.png)
+![](Images/totalpurchaseanalysis2.png)
+
 ### Gender Demographics
 
 * Percentage and Count of Male Players
