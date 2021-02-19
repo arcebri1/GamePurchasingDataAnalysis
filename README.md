@@ -68,8 +68,7 @@ I generated a report that breaks down the game's, Heroes of Pymoli, purchasing d
   * Average Purchase Price
   * Total Purchase Value
 
-  ![](Images/topspenders.png)
- 
+  ![](Images/topspender.png)
 
 ### Most Popular Items
 
@@ -80,7 +79,7 @@ I generated a report that breaks down the game's, Heroes of Pymoli, purchasing d
   * Item Price
   * Total Purchase Value
 
-  ![](Images/mostpopitems.png)
+  ![](Images/mostpop.png)
 
 
 ### Most Profitable Items
